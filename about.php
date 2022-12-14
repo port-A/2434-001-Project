@@ -24,7 +24,7 @@
                     <p class="ptrivia">
                         Credit for the invention of the first practical parachute frequently goes to Sebastien
                         Lenormand, who
-                        demonstrated the parachute principle in 1783. However, parachutes was imagined and sketched
+                        demonstrated the parachute principle in 1783. However, parachutes were imagined and sketched
                         by
                         Leonardo Da Vinci centuries earlier.<br>(Source: <cite><a
                                 href="https://en.wikipedia.org/wiki/Parachuting"
