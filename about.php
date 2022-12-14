@@ -10,7 +10,7 @@
 <body class="body-about">
 <?php include('./view/header.php');?>
     <main class="mainImg-about">
-        <h1 style="color:#032276">About Cloud Parachutes</h1>
+        <h1 style="color:#032276">About Clouds Parachutes</h1>
         <hr><br>
         <section>
 
